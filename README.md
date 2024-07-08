@@ -3,7 +3,7 @@
 ## Project Title: PS-11 Intel Products Sentiment Analysis from Online Reviews
 
 ### Overview
-This project aims to analyze sentiments from Amazon reviews of Intel processors. The process involves scraping reviews, pre-processing the data, and employing machine learning techniques for sentiment analysis. The approach combines Term Frequency-Inverse Document Frequency (TF-IDF) vectorization with Logistic Regression, and Word2Vec embeddings integrated into a Long Short-Term Memory (LSTM) model to enhance semantic understanding. The workflow encompasses tokenization, data cleaning using the Natural Language Toolkit (NLTK), feature extraction via TF-IDF, and model training using Keras. Insights into the strengths and weaknesses of processors are derived for Intel engineers, along with performance comparisons between Transformer and LSTM models. Additionally, word clouds and graphs are generated to visualize the findings, providing valuable data-driven insights.
+This project aims to analyze sentiments from Amazon reviews of Intel processors. The process involves scraping reviews, pre-processing the data, and employing machine learning techniques for sentiment analysis. The approach utilizes the RoBERTa algorithm to enhance semantic understanding. The workflow encompasses tokenization, data cleaning using the Natural Language Toolkit (NLTK), feature extraction, and model training. Insights into the strengths and weaknesses of processors are derived for Intel engineers, along with performance comparisons between Transformer models. Additionally, word clouds and graphs are generated to visualize the findings, providing valuable data-driven insights.
 
 ### Team Details
 - **Team Name:** Intern Innovators
